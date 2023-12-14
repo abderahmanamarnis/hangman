@@ -1,0 +1,63 @@
+{
+    "Football": [
+        {
+            "question": "In the game of football, what is the standard number of players on a single team?",
+            "answer": "Eleven",
+            "hint1": "The goalkeeper is included in this count !",
+            "hint2": "Think about the total number of players on the field and how they are typically divided between two teams !",
+            "hint3": "count your fingers and add one :)!"
+        },
+        {
+            "question": "Which football club has won the most UEFA Champions League titles?",
+            "answer": "RealMadrid",
+            "hint1": "they are wearing white !",
+            "hint2": "Cristiano was a player in that club !",
+            "hint3": "theire country is Spain !"
+        },
+        {
+            "question": "whisch country hosted the last world cup? ",
+            "answer": "Qatar",
+            "hint1": "it's a rich country!",
+            "hint2": "it's the first arabian country hosted the world cup!",
+            "hint3": "no oil, no gas: no dribbling."
+        },
+        {
+            "question": "who is the player who has the most red carts in spain?",
+            "answer": "Ramos",
+            "hint1": "he is 37 years old",
+            "hint2": "he now playing for Sevlla",
+            "hint3": "he is Messi's favorite prey ;) !"
+        }
+
+    ],
+    "Basketball": [
+        {
+            "question": "In the game of Basketball, what is the standard number of players on a single team?",
+            "answer": "five",
+            "hint1": "Think about the total number of players on the field and how they are typically divided between two teams !",
+            "hint2": "it's the same number of players in Ice Hocky!",
+            "hint3": "high five !"
+        },
+        {
+            "question": "who is the player in NBA who has 3points",
+            "answer": "Curry",
+            "hint1": "he is 1.88m !",
+            "hint2": "he wear 4 rings all the time!",
+            "hint3": "his last name is an asian dish !"
+        },
+        {
+            "question": "the team that have NBA rings",
+            "answer": "Lakers",
+            "hint1": "they won the championship 2020!",
+            "hint2": "LeBron James is playing for thet team !",
+            "hint3": "it's not Celtics !"
+        },
+        {
+            "question": "who is the nba player with the most championship?",
+            "answer": "Russell",
+            "hint1": "he passed away in 2022 !",
+            "hint2": "five time league MVP !",
+            "hint3": "he had 2.08m"
+        }
+    ]
+}
